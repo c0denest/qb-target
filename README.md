@@ -2,8 +2,9 @@
 
 ## Prewiev
 
-[![Discord](https://media.discordapp.net/attachments/1138051863061725245/1153108916977274901/qb-target.gif)](https://discord.gg/NC3NxVWKxk)
-[![Discordv2](https://media.discordapp.net/attachments/1138051863061725245/1153109176264970322/image.png)](https://discord.gg/NC3NxVWKxk)
+<img alt="Awesome GitHub Profile Readme" src="https://media.discordapp.net/attachments/1138051863061725245/1153108916977274901/qb-target.gif"> </img>
+
+[![Discord](https://media.discordapp.net/attachments/1138051863061725245/1153109176264970322/image.png)](https://discord.gg/NC3NxVWKxk)
 
 
 <br>
