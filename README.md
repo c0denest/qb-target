@@ -4,7 +4,7 @@
 
 [![Discord](https://media.discordapp.net/attachments/1138051863061725245/1153109176264970322/image.png)](https://discord.gg/NC3NxVWKxk)
 
-![TARGET](https://media.discordapp.net/attachments/1138051863061725245/1153108916977274901/qb-target.gif?width=480&height=226)
+![TARGET](https://media.discordapp.net/attachments/1138051863061725245/1153108916977274901/qb-target.gif)
 
 <br>
 
